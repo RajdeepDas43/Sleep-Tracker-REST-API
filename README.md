@@ -184,5 +184,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or issues, please open an issue on GitHub or contact the maintainer.
+For any questions or issues, please open an issue on GitHub or contact at the email sohom432@gmail.com.
 
