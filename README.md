@@ -23,8 +23,7 @@ The Sleep Tracker API allows users to track their sleep duration and timestamps.
 1. **Clone the Repository**
 
     ```sh
-    git clone <repository-url>
-    cd sleep-tracker-api
+    git clone https://github.com/RajdeepDas43/Sleep-Tracker-REST-API.git
     ```
 
 2. **Install Dependencies**
